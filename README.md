@@ -18,7 +18,7 @@ All scripts can be found in the *code* folder. A description of each script file
 
 ## Data files
 
-Available data files can be found in the *data* folder. Note that the locations of houses in the study area (demandpoints.csv) and the distance matrix containing walking distances between houses and potential vaccination sites (distancematrixwalking.csv) have been removed due to privacy concerns. 
+Available data files can be found in the *data* folder. Note that the locations of houses in the study area (demandpoints.csv) and the distance matrix containing walking distances between houses and potential vaccination sites (distancematrixwalking.csv) have been removed to protect privacy. 
 - **supplypoints.csv** - locations of potential vaccination sites 
 - **MR_ALTO_SELVA_ALEGRE.kml** - polygon for Alto Selva Alegre district
 
