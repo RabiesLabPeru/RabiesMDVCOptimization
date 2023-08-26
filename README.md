@@ -14,7 +14,7 @@ All scripts can be found in the *code* folder. A description of each script file
 - **figure1_potentialtents.R** - creates figure 1 (map of potential tent locations)
 - **figure2_regressions.R** - creates figure 2 (plot of survey data and regression curves)
 - **figure3_catchmentsandhistograms.R** - creates figure 3 (maps of vaccination tent catchments, distribution of walking distance, and distribution of workloads)
-- **figure4_predictedparticipation.R** - creates figure 4 and supp. fig 1 (maps of houses colored by probability of MDVC participation for different sets of selected vaccination sites)
+- **figure4_predictedparticipation.R** - creates figure 4 and supp. fig 1 (maps of houses shaded by probability of MDVC participation for different sets of selected vaccination sites)
 
 ## Data files
 
